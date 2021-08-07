@@ -11,7 +11,7 @@ return (
 
                 <div className=" col-lg-60 order-lg-20 row-lg-300">
                     <img
-                    src="https://www.michaelpage.co.in/sites/michaelpage.co.in/files/legacy/future_of_tech_bloggif.gif" />
+                    src="https://www.michaelpage.co.in/sites/michaelpage.co.in/files/legacy/future_of_tech_bloggif.gif" alt="about"/>
                     </div>
 
                     <div className="margin-right-16px">
